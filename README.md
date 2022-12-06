@@ -11,6 +11,7 @@ Mongoose schemas to model the application data
 React for displaying UI components
 
 # features
+
 1: Users can browse the store products and brands.
 
 2: Users can Signup and Login.
@@ -19,11 +20,11 @@ React for displaying UI components
 
 4:Users can also add reviews of product if they're logged in.
 
-5: users can order products.
+5:Users can order products.
 
-6: admin user can manage orders list, product list, users list
+6:Admin user can manage orders list, product list, users list
 
-7: admin user can create new products, edit  and delete products
+7:Admin user can create new products, edit  and delete products
 
 # deploy
 

@@ -29,11 +29,11 @@ React for displaying UI components
 
 This Application is deployed on replit (backend) and netlify (frontend)
 
-(musaddique-ecommerce-app.netlify.app)
+[musaddique-ecommerce-app.netlify.app]
 
 # usage
 
-$ git clone (https://github.com/Musaddique221/ecommerce-web.git)
+$ git clone https://github.com/Musaddique221/ecommerce-web.git
 
 $ cd frontend or backend
 

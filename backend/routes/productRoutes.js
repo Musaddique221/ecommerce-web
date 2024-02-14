@@ -12,7 +12,6 @@ import {
 
 const router = express.Router();
 
-
 router.route("/").get(getProducts).post(protect, admin, createProduct);
 router.route("/:id/reviews").post(protect, createProductReview);
 
